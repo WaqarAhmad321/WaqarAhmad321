@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Waqar Ahmad</h1>
-<h3 align="center">A Passionate Full Stack Developer &lt;/&gt;</h3>
+<h3 align="center">A Passionate Front-End Developer &lt;/&gt;</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Front-End Web Development**
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WaqarAhmad321](https://github.com/WaqarAhmad321)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NODE JS, and REACT JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, and REACT JS**
 
 - 📫 How to reach me **codewithwaqarahmad@gmail.com**
 
