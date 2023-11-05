@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Front-End Web Development**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently making some production grade projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/WaqarAhmad321](https://github.com/WaqarAhmad321)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, and REACT JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, REACT JS (Next Js) and TypeScript**
 
 - 📫 How to reach me **codewithwaqarahmad@gmail.com**
 
