@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waqar</h1>
-<h3 align="center">A Passionate Front-End Developer </></h3>
+<h3 align="center">A Passionate Full-stack Developer </></h3>
 
-- 🔭 I’m currently working on **Front-End Web Development**
+- 🔭 I’m currently working on **Full stack Web Development**
 
 - 🌱 I’m currently **making some production grade projects**
 
